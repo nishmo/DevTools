@@ -1,0 +1,24 @@
+googlechrome
+git
+notepadplusplus
+vlc
+nodejs
+python
+vscode
+azure-data-studio
+treesizefree
+keepass
+firacode
+7zip.install
+microsoft-windows-terminal
+visualstudio2022community
+ffmpeg
+choco install dotnet-sdk
+putty
+filezilla
+virtualbox
+pdfsam
+mysql
+docker-desktop
+
+
